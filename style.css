@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+
+input[type=range] {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 260px;
+	height: 20px;
+	padding: 0;
+	box-shadow: inset 0 0 0 2px #2D7CFA;
+	background: #00FF7F;
+	overflow: hidden;
+}
